@@ -1,6 +1,10 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+  "appSecret": "YOUR_APP_SECRET",
+  "pageAccessToken": "YOUR_PAGE_ACCESS_TOKEN",
+  "validationToken": "YOUR_VALIDATION_TOKEN",
+  "serverURL": "https://SOMETHING.ngrok.io",
+  "twitterKey": "YOUR_TWITTER_KEY",
+  "twitterSecret": "YOUR_TWITTER_SECRET",
+  "twitterBearerToken": "YOUR_TWITTER_BEARER_TOKEN",
+  "recastRequestAccessToken": "YOUR_RECAST_REQUEST_ACCESS_TOKEN"
 }
